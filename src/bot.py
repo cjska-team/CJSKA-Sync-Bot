@@ -1,4 +1,6 @@
 import sys
+import requests
+import json
 
 def main(firebaseSecret):
     if firebaseSecret == "MY_FIREBASE_SECRET":
