@@ -10,10 +10,45 @@ class KA_API:
             "scratchpadInfo": "https://www.khanacademy.org/api/labs/scratchpads/{SCRATCHPAD}"
         }
     def getContestEntries(self, contestId):
-        newEntries = {}
+        entries = {}
         apiReq = requests.get(str(self.urls["spinoffs"]).replace("{SCRATCHPAD}", contestId))
+        responseJSON = apiReq.json()["scratchpads"]
 
-        return apiReq.json()["scratchpads"]
+        for i in range(0, len(responseJSON)):
+            currEntry = responseJSON[i]
+            tmpEntry = {}
+
+            entryId = str(currEntry["url"]).split("/")[5]
+            entryName = currEntry["translatedTitle"]
+            entryThumb = currEntry["thumb"]
+            entryScores = {
+                "rubrics": {
+                    "Clean_Code": {
+                        "rough": 1,
+                        "avg": 1
+                    },
+                    "Creativity": {
+                        "rough": 1,
+                        "avg": 1
+                    },
+                    "Level": {
+                        "rough": 0,
+                        "avg": 0
+                    },
+                    "judgesWhoVoted": []
+                }
+            }
+
+            tmpEntry = {
+                "id": entryId,
+                "name": entryName,
+                "thumb": entryThumb,
+                "scores": entryScores
+            }
+
+            entries[entryId] = tmpEntry
+
+        return entries
 
     def numberOfEntriesInContest(self, contestId):
         return len(self.getContestEntries(contestId))
@@ -54,6 +89,15 @@ class KA_API:
                     }
 
                     # print(tmpContest)
+
+                    # Get the entries for the current "contest"
+                    tmpContest["entries"] = self.getContestEntries(scratchpadId)
+
+                    tmpContest["entryKeys"] = {}
+
+                    for i in tmpContest["entries"]:
+                        tmpEntry = tmpContest["entries"][i]
+                        tmpContest["entryKeys"][tmpEntry["id"]] = "true"
 
                     contests[scratchpadId] = tmpContest
 
