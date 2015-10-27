@@ -9,27 +9,35 @@ kaApiWrapper = KA_API()
 
 class SyncBot:
     def __init__(self, firebaseToken, pauseTime, logFileLoc):
+        self.firebaseToken = firebaseToken
         self.wait = pauseTime
         self.logFile = open(logFileLoc + "log_" + str(time.ctime()).replace(" ", "-") + ".txt", "w")
+        self.firebaseApp = "https://kacjs-dev.firebaseio.com"
 
         self.output("SyncBot initialized")
 
     def output(self, msg, prefix="Sync  Bot"):
         currTime = str(time.ctime())
         print("(" + currTime + ") [" + prefix + "] - " + str(msg))
-        self.logFile.write("(" + currTime + ") - " + msg + "\n")
+        self.logFile.write("(" + currTime + ") [" + prefix + "] - " + msg + "\n")
 
     def getStoredContests(self):
-        apiRequest = requests.get("https://contest-judging-sys.firebaseio.com/contestKeys.json?print=pretty")
+        apiRequest = requests.get(self.firebaseApp + "/contestKeys.json?print=pretty")
         responseJSON = apiRequest.json()
 
-        return responseJSON
+        if responseJSON == None:
+            return {}
+        else:
+            return responseJSON
 
     def getStoredContestEntries(self, contestId):
-        apiRequest = requests.get("https://contest-judging-sys.firebaseio.com/contests/" + str(contestId) + "/entryKeys.json?print=pretty")
+        apiRequest = requests.get(self.firebaseApp + "/contests/" + str(contestId) + "/entryKeys.json?print=pretty")
         responseJSON = apiRequest.json()
 
-        return responseJSON
+        if responseJSON == None:
+            return {}
+        else:
+            return responseJSON
 
     def sync(self):
         startTime = time.time()
@@ -47,6 +55,7 @@ class SyncBot:
         kaContestEntriesAdded = {} # Contests Entries to add to Firebase
         kaContestEntriesDeleted = {} # Contest Entries to delete from Firebase
 
+        # Phase 1: Check for new data
         self.output("Beginning Sync Phase 1 (Checking for new content)", "DiffCheck")
         for kaContest in kaContests:
             if kaContest in fbContests:
@@ -71,6 +80,7 @@ class SyncBot:
                 self.output("Untracked contest found. ID: " + str(kaContest), "DiffCheck")
                 kaContestsAdded.append(str(kaContest))
 
+        # Phase 2: Check for deleted data
         self.output("Beginning Sync Phase 2 (Checking for deleted content)", "DiffCheck")
         for fbContest in fbContests:
             if fbContest in kaContests:
@@ -95,6 +105,25 @@ class SyncBot:
                 self.output("Found a contest that no longer exists. ID: " + str(fbContest), "DiffCheck")
                 fbContestsDelete.append(str(fbContest))
 
+
+        self.output("Untracked contests: " + str(kaContestsAdded), "DiffDebug")
+        self.output("Contests with untracked entries: " + str(kaContestEntriesAdded), "DiffDebug")
+
+        # Phase 3: Write new data
+        # P3A: Write new contests
+        for newContest in range(0, len(kaContestsAdded)):
+            # 2 PUT requests to:
+            # /contestKeys/<contestId>: true
+            # /contests/<contestId>: <contestDataJSON>
+            requests.put(self.firebaseApp + "/contestKeys/" + str(kaContestsAdded[newContest]) + "/.json?auth=" + str(self.firebaseToken), data="true")
+
+        # P3B: Write new contest entries
+        for contestWithNewEntries in kaContestEntriesAdded:
+            for newContestEntry in range(0, len(kaContestEntriesAdded[contestWithNewEntries])):
+                requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entryKeys/" + str(kaContestEntriesAdded[contestWithNewEntries][newContestEntry]) + "/.json?auth=" + str(self.firebaseToken), data="true")
+
+        # Phase 4: Remove old data
+        # ...
 
         self.output("Sync loop finished")
         endTime = time.time()
