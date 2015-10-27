@@ -19,9 +19,14 @@ class SyncBot:
         self.logFile.write("[" + str(time.ctime()) + "] - " + msg + "\n")
 
     def sync(self):
+        startTime = time.time()
         self.output("Sync loop started.")
+
         # TODO: Make the sync work!
+
         self.output("Sync loop finished.")
+        endTime = time.time()
+        self.output("Sync loop took approximately " + str(round(endTime - startTime, 2)) + " seconds")
 
     def runBot(self):
         self.output("SyncBot starting infinite loop.")
