@@ -3,10 +3,21 @@ import requests
 import json
 from firebase_token_generator import create_token
 
+logFileLoc = "./output/log.txt"
+logFile = open(logFileLoc, "w")
+
+def output(msg):
+    # TODO: Add date and time to log messages
+    print("[LOG] - " + str(msg))
+    logFile.write(msg + "\n")
+
 def getFirebaseToken(secret, uid):
-    return create_token(secret, {"uid": uid})
+    return create_token(secret, {
+        "uid": uid
+    })
 
 def main(firebaseSecret, firebaseUID):
+    output("New bot instance started!")
     if firebaseSecret != "MY_FIREBASE_SECRET" and firebaseUID != "MY_FIREBASE_UID":
         fbToken = getFirebaseToken(firebaseSecret, firebaseUID)
     else:
