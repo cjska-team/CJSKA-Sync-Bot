@@ -31,15 +31,3 @@ class SyncBot:
             self.output("Returning to idle state.")
             time.sleep(self.wait)
         self.output("Infinite loop terminated.")
-
-# def main(firebaseSecret, firebaseUID):
-#     output("New bot instance started!")
-#     if firebaseSecret != "MY_FIREBASE_SECRET" and firebaseUID != "MY_FIREBASE_UID":
-#         fbToken = getFirebaseToken(firebaseSecret, firebaseUID)
-#
-#         print("Begin wait")
-#         sleep(10)
-#         print("Done")
-#     else:
-#         print("Uh-oh! It looks like you forgot to include a valid Firebase Secret and/or a valid Firebase UID.")
-#         return
