@@ -3,11 +3,11 @@ import requests
 import json
 
 def main(firebaseSecret):
-    if firebaseSecret == "MY_FIREBASE_SECRET":
+    if firebaseSecret != "MY_FIREBASE_SECRET":
+        print("TODO (Gigabyte Giant): Write this!")
+    else:
         print("Uh-oh! It looks like you forgot to include a valid Firebase Secret.")
         return
-    else:
-        print("TODO (Gigabyte Giant): Write this!")
 
 print("Command Line arguments: " + str(sys.argv))
 try:
