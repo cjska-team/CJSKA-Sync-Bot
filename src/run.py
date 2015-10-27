@@ -4,7 +4,7 @@ from firebase_token_generator import create_token
 from bot import SyncBot
 
 waitTime = (60 * 1)
-logFileLoc = "./output/log.txt"
+logFileLoc = "./output/"
 
 def getFirebaseToken(secret, uid):
     return create_token(secret, {
