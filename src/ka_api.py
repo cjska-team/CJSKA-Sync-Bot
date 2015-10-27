@@ -58,14 +58,3 @@ class KA_API:
                     contests[scratchpadId] = tmpContest
 
         return contests
-
-    def test(self):
-        testsToRun = [
-            self.getContests
-        ]
-
-        i = 0
-
-        while i < len(testsToRun):
-            print(testsToRun[i]())
-            i = i + 1
