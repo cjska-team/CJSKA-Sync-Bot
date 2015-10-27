@@ -1,10 +1,13 @@
 import sys
 import requests
 import json
+from ka_api import KA_API
 from firebase_token_generator import create_token
 
 logFileLoc = "./output/log.txt"
 logFile = open(logFileLoc, "w")
+
+kaApiWrapper = KA_API()
 
 def output(msg):
     # TODO: Add date and time to log messages
