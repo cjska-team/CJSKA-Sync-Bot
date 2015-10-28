@@ -125,6 +125,7 @@ class SyncBot:
 
         # Phase 4: Remove old data
         # ...
+        # NOTE: https://github.com/sparkstudios/CJSKA-Sync-Bot/issues/1
 
         self.output("Sync loop finished")
         endTime = time.time()
