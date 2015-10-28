@@ -110,6 +110,7 @@ class SyncBot:
         self.output("Contests with untracked entries: " + str(kaContestEntriesAdded), "DiffDebug")
 
         # Phase 3: Write new data
+        # TODO: Push the actual scratchpad data to Firebase!
         # P3A: Write new contests
         for newContest in range(0, len(kaContestsAdded)):
             # 2 PUT requests to:
