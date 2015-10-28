@@ -49,11 +49,11 @@ class SyncBot:
         self.output("Fetching contests stored in Firebase", "DiffCheck")
         fbContests = self.getStoredContests()
 
-        kaContestsAdded = [] # Contests to add to Firebase
-        fbContestsDelete = [] # Contests to delete from Firebase
+        newKAContests = {} # Contests to add to Firebase
+        delKAContests = [] # Contests to delete from Firebase
 
-        kaContestEntriesAdded = {} # Contests Entries to add to Firebase
-        kaContestEntriesDeleted = {} # Contest Entries to delete from Firebase
+        newKAContestEntries = {} # Contests Entries to add to Firebase
+        delKAContestEntries = {} # Contest Entries to delete from Firebase
 
         # Phase 1: Check for new data
         self.output("Beginning Sync Phase 1 (Checking for new content)", "DiffCheck")
@@ -62,7 +62,7 @@ class SyncBot:
                 # Check for new contest entries
                 # ...
 
-                kaContestEntriesAdded[str(kaContest)] = []
+                newKAContestEntries[str(kaContest)] = {}
 
                 self.output("Fetching contest entries from Khan Academy (for contest with ID " + kaContest + ")", "DiffCheck")
                 kaContestEntries = kaApiWrapper.getContestEntries(kaContest)
@@ -75,10 +75,11 @@ class SyncBot:
                         pass
                     else:
                         self.output("Untracked contest entry found. Contest ID: " + str(kaContest) + " Entry ID: " + str(kaContestEntry), "DiffCheck")
-                        kaContestEntriesAdded[str(kaContest)].append(str(kaContestEntry))
+                        newKAContestEntries[str(kaContest)][str(kaContestEntry)] = kaContestEntries[kaContestEntry]
             else:
                 self.output("Untracked contest found. ID: " + str(kaContest), "DiffCheck")
-                kaContestsAdded.append(str(kaContest))
+                newKAContests[str(kaContest)] = kaContests[kaContest]
+                # kaContestsAdded.append(str(kaContest))
 
         # Phase 2: Check for deleted data
         self.output("Beginning Sync Phase 2 (Checking for deleted content)", "DiffCheck")
@@ -87,7 +88,7 @@ class SyncBot:
                 # Check for deleted contest entries
                 # ...
 
-                kaContestEntriesDeleted[str(fbContest)] = []
+                delKAContestEntries[str(fbContest)] = []
 
                 self.output("Fetching contest entries from Khan Academy (for contest with ID " + fbContest + ")", "DiffCheck")
                 kaContestEntries = kaApiWrapper.getContestEntries(fbContest)
@@ -100,28 +101,24 @@ class SyncBot:
                         pass
                     else:
                         self.output("Found a contest entry that no longer exists. Contest ID: " + str(fbContest) + " Entry ID: " + str(fbContestEntry), "DiffCheck")
-                        kaContestEntriesDeleted[str(fbContest)].append(str(fbContestEntry))
+                        delKAContestEntries[str(fbContest)].append(str(fbContestEntry))
             else:
                 self.output("Found a contest that no longer exists. ID: " + str(fbContest), "DiffCheck")
-                fbContestsDelete.append(str(fbContest))
+                delKAContests.append(str(fbContest))
 
-
-        self.output("Untracked contests: " + str(kaContestsAdded), "DiffDebug")
-        self.output("Contests with untracked entries: " + str(kaContestEntriesAdded), "DiffDebug")
+        # self.output("Untracked contests: " + str(newKAContests), "DiffDebug")
+        # self.output("Contests with untracked entries: " + str(newKAContestEntries), "DiffDebug")
 
         # Phase 3: Write new data
         # TODO: Push the actual scratchpad data to Firebase!
         # P3A: Write new contests
-        for newContest in range(0, len(kaContestsAdded)):
-            # 2 PUT requests to:
-            # /contestKeys/<contestId>: true
-            # /contests/<contestId>: <contestDataJSON>
-            requests.put(self.firebaseApp + "/contestKeys/" + str(kaContestsAdded[newContest]) + "/.json?auth=" + str(self.firebaseToken), data="true")
+        for newContest in newKAContests:
+            requests.put(self.firebaseApp + "/contestKeys/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data="true")
 
         # P3B: Write new contest entries
-        for contestWithNewEntries in kaContestEntriesAdded:
-            for newContestEntry in range(0, len(kaContestEntriesAdded[contestWithNewEntries])):
-                requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entryKeys/" + str(kaContestEntriesAdded[contestWithNewEntries][newContestEntry]) + "/.json?auth=" + str(self.firebaseToken), data="true")
+        for contestWithNewEntries in newKAContestEntries:
+            for newContestEntry in newKAContestEntries[contestWithNewEntries]:
+                requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entryKeys/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data="true")
 
         # Phase 4: Remove old data
         # ...
