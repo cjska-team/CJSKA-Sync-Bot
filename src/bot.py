@@ -114,16 +114,20 @@ class SyncBot:
         # P3A: Write new contests
         for newContest in newKAContests:
             # For some reason, the following PUT request continues to return HTTP 401 (AKA unauthorized)
-            tmpReq = requests.put(self.firebaseApp + "/contests/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data=str(json.dumps(newKAContests[newContest])))
-            if tmpReq.status_code == 200:
+            addContestReq = requests.put(self.firebaseApp + "/contests/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data=str(json.dumps(newKAContests[newContest])))
+            if addContestReq.status_code == 200:
                 requests.put(self.firebaseApp + "/contestKeys/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data="true")
             else:
-               self.output("PUT Request to Firebase failed with status code " + str(tmpReq.status_code), "FATAL")
+               self.output("PUT Request to Firebase failed while trying to push new contests. Status Code: " + str(addContestReq.status_code), "FATAL")
 
         # P3B: Write new contest entries
         for contestWithNewEntries in newKAContestEntries:
             for newContestEntry in newKAContestEntries[contestWithNewEntries]:
-                requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entryKeys/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data="true")
+                addEntryReq = requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entries/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data=json.dumps(newKAContestEntries[contestWithNewEntries][newContestEntry]))
+                if addEntryReq.status_code == 200:
+                    requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entryKeys/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data="true")
+                else:
+                    self.output("PUT Request to Firebase failed while attempting to push new contest entries. Status Code: " + str(addEntryReq.status_code), "FATAL")
 
         # Phase 4: Remove old data
         # ...
