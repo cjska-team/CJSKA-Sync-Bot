@@ -113,7 +113,12 @@ class SyncBot:
         # TODO: Push the actual scratchpad data to Firebase!
         # P3A: Write new contests
         for newContest in newKAContests:
-            requests.put(self.firebaseApp + "/contestKeys/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data="true")
+            # For some reason, the following PUT request continues to return HTTP 401 (AKA unauthorized)
+            tmpReq = requests.put(self.firebaseApp + "/contests/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data=str(json.dumps(newKAContests[newContest])))
+            if tmpReq.status_code == 200:
+                requests.put(self.firebaseApp + "/contestKeys/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data="true")
+            else:
+               self.output("PUT Request to Firebase failed with status code " + str(tmpReq.status_code), "FATAL")
 
         # P3B: Write new contest entries
         for contestWithNewEntries in newKAContestEntries:
