@@ -1,0 +1,508 @@
+(Thu Oct 29 14:55:10 2015) [Sync  Bot] - SyncBot initialized
+(Thu Oct 29 14:55:10 2015) [Sync  Bot] - SyncBot starting infinite loop.
+(Thu Oct 29 14:55:10 2015) [Sync  Bot] - Sync Loop Started
+(Thu Oct 29 14:55:10 2015) [DiffCheck] - Fetching contest programs from Khan Academy
+(Thu Oct 29 14:56:23 2015) [DiffCheck] - Fetching contests stored in Firebase
+(Thu Oct 29 14:56:24 2015) [DiffCheck] - Beginning Sync Phase 1 (Checking for new content)
+(Thu Oct 29 14:56:24 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5050019138502656)
+(Thu Oct 29 14:56:25 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5050019138502656)
+(Thu Oct 29 14:56:25 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5752656318169088)
+(Thu Oct 29 14:56:26 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5752656318169088)
+(Thu Oct 29 14:56:26 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6627141774737408)
+(Thu Oct 29 14:56:28 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6627141774737408)
+(Thu Oct 29 14:56:28 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6166415644819456)
+(Thu Oct 29 14:56:29 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6166415644819456)
+(Thu Oct 29 14:56:29 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5215505961058304)
+(Thu Oct 29 14:56:31 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5215505961058304)
+(Thu Oct 29 14:56:31 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6235132883632128)
+(Thu Oct 29 14:56:31 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6235132883632128)
+(Thu Oct 29 14:56:32 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6292617930473472)
+(Thu Oct 29 14:56:33 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6292617930473472)
+(Thu Oct 29 14:56:33 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6675428649205760)
+(Thu Oct 29 14:56:33 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6675428649205760)
+(Thu Oct 29 14:56:33 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5170967507894272)
+(Thu Oct 29 14:56:36 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5170967507894272)
+(Thu Oct 29 14:56:36 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5931742403887104)
+(Thu Oct 29 14:56:42 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5931742403887104)
+(Thu Oct 29 14:56:42 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5933169060741120)
+(Thu Oct 29 14:56:43 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5933169060741120)
+(Thu Oct 29 14:56:43 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6666901343305728)
+(Thu Oct 29 14:56:45 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6666901343305728)
+(Thu Oct 29 14:56:45 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4894492747628544)
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4894492747628544)
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4894492747628544 Entry ID: 4771009645903872
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4894492747628544 Entry ID: 5740310238461952
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4894492747628544 Entry ID: 6468091693891584
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4894492747628544 Entry ID: 6637023685902336
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4894492747628544 Entry ID: 5277245025943552
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4894492747628544 Entry ID: 4572092555722752
+(Thu Oct 29 14:56:47 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4838853354061824)
+(Thu Oct 29 14:56:48 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4838853354061824)
+(Thu Oct 29 14:56:48 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4952749859012608)
+(Thu Oct 29 14:56:49 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4952749859012608)
+(Thu Oct 29 14:56:49 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4955067011694592)
+(Thu Oct 29 14:56:54 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4955067011694592)
+(Thu Oct 29 14:56:54 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5858268865101824)
+(Thu Oct 29 14:56:55 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5858268865101824)
+(Thu Oct 29 14:56:55 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6097297153458176)
+(Thu Oct 29 14:56:56 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6097297153458176)
+(Thu Oct 29 14:56:56 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6240228079697920)
+(Thu Oct 29 14:56:57 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6240228079697920)
+(Thu Oct 29 14:56:57 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5829785948389376)
+(Thu Oct 29 14:57:01 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5829785948389376)
+(Thu Oct 29 14:57:01 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5531459034152960)
+(Thu Oct 29 14:57:03 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5531459034152960)
+(Thu Oct 29 14:57:03 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5812560189980672)
+(Thu Oct 29 14:57:04 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5812560189980672)
+(Thu Oct 29 14:57:04 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6320765585850368)
+(Thu Oct 29 14:57:05 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6320765585850368)
+(Thu Oct 29 14:57:06 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4688911017312256)
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4688911017312256)
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5171386772488192
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6674035619528704
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6622166071246848
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4739142333366272
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5918413684867072
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5991982162903040
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5282806222684160
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4774275753050112
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5512278976888832
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5312549999476736
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4724247940431872
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5983276415188992
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6333693217079296
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6692714532962304
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4587370704928768
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5995810220277760
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6569743210381312
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5402513017798656
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5706146976497664
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4516407896309760
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5383775635767296
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5667760853090304
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6635381014528000
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5380135147667456
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6453350854950912
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6592753397006336
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5827650036826112
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5739940496408576
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4805508419682304
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6597900835618816
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5649962307289088
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5908385120780288
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5727001269895168
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5621773598064640
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5622847448940544
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5347577873694720
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5804791637868544
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4846819126411264
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6405051447902208
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4525774246903808
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6298651350663168
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6134218762616832
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6493579850678272
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4720094119854080
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6066603176361984
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6166978994765824
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5605022118313984
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6381725631512576
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6343441740070912
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4665892018454528
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6435752587165696
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6614188437929984
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5395798264250368
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5012937107439616
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6032496622960640
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4692407334600704
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5363422490394624
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5889903406743552
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5120689628643328
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6323550484037632
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5129142283665408
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5456351842140160
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4878789956993024
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6021050736443392
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5232014627307520
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5759813410750464
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4739174059081728
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6144443972452352
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6436843852791808
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5252296117190656
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6006706908823552
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6239118204993536
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5456810992599040
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4745388809650176
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5992930042052608
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6273938645712896
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5130923529076736
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5098823178387456
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5230519643144192
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5506630541246464
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6526880510509056
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6295483610955776
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6701448684503040
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5741428870348800
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6598147305504768
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6454180135960576
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5190109877108736
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6018947209101312
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6373230639185920
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5154610361794560
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5284401165500416
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5615290164576256
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6188853279981568
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5720462182187008
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5029261804175360
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6461748774305792
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5195573958410240
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5162808007327744
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6450951830503424
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5548754141839360
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6496689843208192
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5892740266196992
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4739404108267520
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5089167957688320
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6144159598641152
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4642391601577984
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6129205428486144
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6741785675169792
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4691100540469248
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4716127902105600
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5272434648416256
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4946531154264064
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4791406649540608
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6024036434444288
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4814247369506816
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4675859127599104
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6171285492203520
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5244099239215104
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5535033914949632
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5114617505382400
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4735453107453952
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5602592794214400
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5484958052384768
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5932548271243264
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5838140985180160
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5532502937698304
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6580310440542208
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5895406199373824
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6577993137913856
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5612366915043328
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6645957220499456
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5170374665961472
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5997716581777408
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5792277558591488
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6328960884539392
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5000577714094080
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6544989468360704
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6720526191034368
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5149863512768512
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5488692258013184
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5531411600769024
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6015100617097216
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6327332269850624
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5625592717377536
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6355787652923392
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6501869661847552
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6437133645643776
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6356451879682048
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6457129486647296
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5246850031550464
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6185690321780736
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4786459971289088
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5850352898408448
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5177152543784960
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6674384451403776
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5477856332349440
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6466330850099200
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4737139653869568
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6716731050557440
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5703014414417920
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4903035819130880
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6098161069326336
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5035911982219264
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6605798991069184
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5829068449775616
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5319187749797888
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6285202130337792
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5449381261213696
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4983254064168960
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5265668095213568
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6687893079851008
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5736302256455680
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6746286196916224
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6152007946731520
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6323558033784832
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5247409551704064
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4554822205440000
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5695303136182272
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6478459418312704
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6339142960152576
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6072955705622528
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6174194388828160
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6144952892522496
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5112385510703104
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6500483574398976
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6497828680630272
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4816603494612992
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5808287204376576
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5506824016101376
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5738544464265216
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6078631148388352
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4958000797319168
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4556821625962496
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6522162992250880
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4522278512623616
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5434540488261632
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4979268590370816
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6056074013704192
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5604988865871872
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6726666987634688
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5704848617111552
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6613432624349184
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5685512825339904
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5173174061891584
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5142094386692096
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5908553027158016
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6713609414639616
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5761685882273792
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4638206759927808
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6673193579446272
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6344583735803904
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6159180206571520
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5686230269427712
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5537590125133824
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6195842584281088
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6234272307478528
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5172235846418432
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5833608196653056
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5353659979399168
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5415371797561344
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5059771272134656
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5601928521318400
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4636392916385792
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5811183299985408
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5419220927119360
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5258346316824576
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4825831689027584
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6100011260706816
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6103557267914752
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4533568236814336
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4869690699677696
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5882683583496192
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6375433152102400
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5502029192626176
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6153786264518656
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5800695983374336
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5942597957844992
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6338541933166592
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6319782061277184
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6339515078803456
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5993839300050944
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6318143690637312
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4615791145254912
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6437212330786816
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6391132750741504
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6017726079434752
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5349350701137920
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4963759216001024
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6062380269305856
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5625171521175552
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6172614058967040
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5659421570105344
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5375181573980160
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5702693868929024
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6250662372442112
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5771377475977216
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 4510679953440768
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6003358960844800
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5048134184075264
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6665701403262976
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5415444040253440
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 6182094058422272
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 4688911017312256 Entry ID: 5525045385494528
+(Thu Oct 29 14:57:09 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6311996940877824)
+(Thu Oct 29 14:57:11 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6311996940877824)
+(Thu Oct 29 14:57:11 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6194437445255168)
+(Thu Oct 29 14:57:13 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6194437445255168)
+(Thu Oct 29 14:57:13 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6488480782483456)
+(Thu Oct 29 14:57:15 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6488480782483456)
+(Thu Oct 29 14:57:15 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5797244947791872)
+(Thu Oct 29 14:57:15 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5797244947791872)
+(Thu Oct 29 14:57:16 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5797244947791872 Entry ID: 5215017862037504
+(Thu Oct 29 14:57:16 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5533388280823808)
+(Thu Oct 29 14:57:20 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5533388280823808)
+(Thu Oct 29 14:57:20 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5091511373529088)
+(Thu Oct 29 14:57:22 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5091511373529088)
+(Thu Oct 29 14:57:22 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5091511373529088 Entry ID: 6488978579128320
+(Thu Oct 29 14:57:22 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6124897529757696)
+(Thu Oct 29 14:57:23 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6124897529757696)
+(Thu Oct 29 14:57:23 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6543805623566336)
+(Thu Oct 29 14:57:24 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6543805623566336)
+(Thu Oct 29 14:57:24 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5283821562626048)
+(Thu Oct 29 14:57:27 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5283821562626048)
+(Thu Oct 29 14:57:27 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4802521609666560)
+(Thu Oct 29 14:57:29 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4802521609666560)
+(Thu Oct 29 14:57:29 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4878151713947648)
+(Thu Oct 29 14:57:33 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4878151713947648)
+(Thu Oct 29 14:57:33 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6223097608929280)
+(Thu Oct 29 14:57:36 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6223097608929280)
+(Thu Oct 29 14:57:36 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5086766055424000)
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5086766055424000)
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5086766055424000 Entry ID: 6394731024744448
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5086766055424000 Entry ID: 4875679609520128
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5086766055424000 Entry ID: 5657530624245760
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5086766055424000 Entry ID: 6149047243636736
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5086766055424000 Entry ID: 6060014719074304
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Untracked contest entry found. Contest ID: 5086766055424000 Entry ID: 4775857615405056
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Beginning Sync Phase 2 (Checking for deleted content)
+(Thu Oct 29 14:57:38 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5050019138502656)
+(Thu Oct 29 14:57:39 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5050019138502656)
+(Thu Oct 29 14:57:39 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5050019138502656 Entry ID: 5925680482877440
+(Thu Oct 29 14:57:39 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5752656318169088)
+(Thu Oct 29 14:57:41 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5752656318169088)
+(Thu Oct 29 14:57:41 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6627141774737408)
+(Thu Oct 29 14:57:44 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6627141774737408)
+(Thu Oct 29 14:57:44 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6627141774737408 Entry ID: 6381036650627072
+(Thu Oct 29 14:57:44 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6627141774737408 Entry ID: 6348126195286016
+(Thu Oct 29 14:57:44 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6166415644819456)
+(Thu Oct 29 14:57:45 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6166415644819456)
+(Thu Oct 29 14:57:45 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5215505961058304)
+(Thu Oct 29 14:57:46 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5215505961058304)
+(Thu Oct 29 14:57:46 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5215505961058304 Entry ID: 6230422000369664
+(Thu Oct 29 14:57:46 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5215505961058304 Entry ID: 4997285282971648
+(Thu Oct 29 14:57:46 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6292617930473472)
+(Thu Oct 29 14:57:47 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6292617930473472)
+(Thu Oct 29 14:57:47 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6292617930473472 Entry ID: 6164833473003520
+(Thu Oct 29 14:57:47 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6675428649205760)
+(Thu Oct 29 14:57:49 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6675428649205760)
+(Thu Oct 29 14:57:49 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6675428649205760 Entry ID: 6155399109279744
+(Thu Oct 29 14:57:49 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6675428649205760 Entry ID: 6018106386022400
+(Thu Oct 29 14:57:49 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5170967507894272)
+(Thu Oct 29 14:57:52 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5170967507894272)
+(Thu Oct 29 14:57:52 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5931742403887104)
+(Thu Oct 29 14:57:58 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5931742403887104)
+(Thu Oct 29 14:57:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5931742403887104 Entry ID: 5885531961556992
+(Thu Oct 29 14:57:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5931742403887104 Entry ID: 5565662091149312
+(Thu Oct 29 14:57:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5931742403887104 Entry ID: 5603264244613120
+(Thu Oct 29 14:57:58 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5933169060741120)
+(Thu Oct 29 14:57:59 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5933169060741120)
+(Thu Oct 29 14:57:59 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6666901343305728)
+(Thu Oct 29 14:58:00 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6666901343305728)
+(Thu Oct 29 14:58:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6666901343305728 Entry ID: 5504252622536704
+(Thu Oct 29 14:58:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6666901343305728 Entry ID: 5410037766946816
+(Thu Oct 29 14:58:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6666901343305728 Entry ID: 5769902297317376
+(Thu Oct 29 14:58:00 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4894492747628544)
+(Thu Oct 29 14:58:05 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4894492747628544)
+(Thu Oct 29 14:58:05 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4894492747628544 Entry ID: 4853277152509952
+(Thu Oct 29 14:58:05 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4838853354061824)
+(Thu Oct 29 14:58:06 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4838853354061824)
+(Thu Oct 29 14:58:06 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4952749859012608)
+(Thu Oct 29 14:58:06 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4952749859012608)
+(Thu Oct 29 14:58:07 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4955067011694592)
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4955067011694592)
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5521212915712000
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4648262718586880
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4606350731640832
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5204422645907456
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 6392797482582016
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5897196609339392
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4740196240326656
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4613573222465536
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4797311050973184
+(Thu Oct 29 14:58:11 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5858268865101824)
+(Thu Oct 29 14:58:13 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5858268865101824)
+(Thu Oct 29 14:58:13 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6097297153458176)
+(Thu Oct 29 14:58:14 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6097297153458176)
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 5831268123803648
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 6059247068250112
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 4679543632429056
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6240228079697920)
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6240228079697920)
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6240228079697920 Entry ID: 5521323601952768
+(Thu Oct 29 14:58:15 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5829785948389376)
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5829785948389376)
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 5486613917466624
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 4802387693928448
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 5584857754370048
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 6659593561309184
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 5932939184570368
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 6050424156192768
+(Thu Oct 29 14:58:18 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5531459034152960)
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5531459034152960)
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5284308704165888
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5121044976369664
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5484692460666880
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 6183464849244160
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 4558932709343232
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 4736129925513216
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 6081931384061952
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5852088325242880
+(Thu Oct 29 14:58:21 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5091511373529088)
+(Thu Oct 29 14:58:22 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5091511373529088)
+(Thu Oct 29 14:58:22 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6320765585850368)
+(Thu Oct 29 14:58:24 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6320765585850368)
+(Thu Oct 29 14:58:24 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4688911017312256)
+(Thu Oct 29 14:58:26 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4688911017312256)
+(Thu Oct 29 14:58:26 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5283821562626048)
+(Thu Oct 29 14:58:28 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5283821562626048)
+(Thu Oct 29 14:58:28 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5283821562626048 Entry ID: 5256750290436096
+(Thu Oct 29 14:58:28 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5283821562626048 Entry ID: 6130579550240768
+(Thu Oct 29 14:58:28 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6194437445255168)
+(Thu Oct 29 14:58:30 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6194437445255168)
+(Thu Oct 29 14:58:30 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6194437445255168 Entry ID: 4730761861267456
+(Thu Oct 29 14:58:30 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6488480782483456)
+(Thu Oct 29 14:58:32 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6488480782483456)
+(Thu Oct 29 14:58:32 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6488480782483456 Entry ID: 5884459627577344
+(Thu Oct 29 14:58:32 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5797244947791872)
+(Thu Oct 29 14:58:33 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5797244947791872)
+(Thu Oct 29 14:58:33 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5533388280823808)
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5533388280823808)
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 5906764940836864
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 6169997527351296
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 6063621407899648
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 5935253002780672
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 4677861786124288
+(Thu Oct 29 14:58:37 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5812560189980672)
+(Thu Oct 29 14:58:38 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5812560189980672)
+(Thu Oct 29 14:58:38 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6124897529757696)
+(Thu Oct 29 14:58:39 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6124897529757696)
+(Thu Oct 29 14:58:39 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6543805623566336)
+(Thu Oct 29 14:58:40 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6543805623566336)
+(Thu Oct 29 14:58:40 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 6712556281135104
+(Thu Oct 29 14:58:40 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 5108568616075264
+(Thu Oct 29 14:58:40 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 5475894767124480
+(Thu Oct 29 14:58:40 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6235132883632128)
+(Thu Oct 29 14:58:41 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6235132883632128)
+(Thu Oct 29 14:58:41 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4802521609666560)
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4802521609666560)
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5779309043253248
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5748022890856448
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5275927652204544
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5344894995529728
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5047698794348544
+(Thu Oct 29 14:58:43 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4878151713947648)
+(Thu Oct 29 14:58:47 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4878151713947648)
+(Thu Oct 29 14:58:47 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 6697406897979392
+(Thu Oct 29 14:58:47 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 4796629258469376
+(Thu Oct 29 14:58:47 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 5644899509731328
+(Thu Oct 29 14:58:47 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6311996940877824)
+(Thu Oct 29 14:58:49 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6311996940877824)
+(Thu Oct 29 14:58:49 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 5726258251694080
+(Thu Oct 29 14:58:49 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 5220796133539840
+(Thu Oct 29 14:58:49 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 4939423237799936
+(Thu Oct 29 14:58:49 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6223097608929280)
+(Thu Oct 29 14:58:53 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6223097608929280)
+(Thu Oct 29 14:58:53 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6223097608929280 Entry ID: 6396094778048512
+(Thu Oct 29 14:58:53 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5086766055424000)
+(Thu Oct 29 14:58:55 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5086766055424000)
+(Thu Oct 29 14:58:55 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 6111096904220672
+(Thu Oct 29 14:58:55 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 6486548567162880
+(Thu Oct 29 14:58:55 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 4819703736958976
+(Thu Oct 29 14:58:55 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 5569840891428864
+(Thu Oct 29 14:58:55 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 4648209299931136
+(Thu Oct 29 14:59:28 2015) [Sync  Bot] - Sync loop finished
+(Thu Oct 29 14:59:28 2015) [Sync  Bot] - Sync loop took approximately 257.68 seconds
+(Thu Oct 29 14:59:28 2015) [Sync  Bot] - Returning to idle state.
+(Thu Oct 29 15:00:28 2015) [Sync  Bot] - Sync Loop Started
+(Thu Oct 29 15:00:28 2015) [DiffCheck] - Fetching contest programs from Khan Academy

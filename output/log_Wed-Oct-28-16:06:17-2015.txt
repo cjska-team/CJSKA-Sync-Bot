@@ -1,0 +1,4 @@
+(Wed Oct 28 16:06:17 2015) [Sync  Bot] - SyncBot initialized
+(Wed Oct 28 16:06:17 2015) [Sync  Bot] - SyncBot starting infinite loop.
+(Wed Oct 28 16:06:17 2015) [Sync  Bot] - Sync Loop Started
+(Wed Oct 28 16:06:17 2015) [DiffCheck] - Fetching contest programs from Khan Academy

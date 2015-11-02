@@ -1,0 +1,245 @@
+(Mon Nov  2 08:56:32 2015) [Sync  Bot] - SyncBot initialized
+(Mon Nov  2 08:56:32 2015) [Sync  Bot] - SyncBot starting infinite loop.
+(Mon Nov  2 08:56:32 2015) [Sync  Bot] - Sync Loop Started
+(Mon Nov  2 08:56:32 2015) [DiffCheck] - Fetching contest programs from Khan Academy
+(Mon Nov  2 08:57:45 2015) [DiffCheck] - Fetching contests stored in Firebase
+(Mon Nov  2 08:57:45 2015) [DiffCheck] - Beginning Sync Phase 1 (Checking for new content)
+(Mon Nov  2 08:57:45 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5797244947791872)
+(Mon Nov  2 08:57:45 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5797244947791872)
+(Mon Nov  2 08:57:46 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4802521609666560)
+(Mon Nov  2 08:57:47 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4802521609666560)
+(Mon Nov  2 08:57:48 2015) [DiffCheck] - Untracked contest found. ID: 4688911017312256
+(Mon Nov  2 08:57:48 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5829785948389376)
+(Mon Nov  2 08:57:51 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5829785948389376)
+(Mon Nov  2 08:57:51 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6627141774737408)
+(Mon Nov  2 08:57:52 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6627141774737408)
+(Mon Nov  2 08:57:52 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5283821562626048)
+(Mon Nov  2 08:57:55 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5283821562626048)
+(Mon Nov  2 08:57:55 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6166415644819456)
+(Mon Nov  2 08:57:56 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6166415644819456)
+(Mon Nov  2 08:57:56 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5858268865101824)
+(Mon Nov  2 08:57:57 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5858268865101824)
+(Mon Nov  2 08:57:57 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6675428649205760)
+(Mon Nov  2 08:57:57 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6675428649205760)
+(Mon Nov  2 08:57:58 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6543805623566336)
+(Mon Nov  2 08:57:59 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6543805623566336)
+(Mon Nov  2 08:57:59 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6194437445255168)
+(Mon Nov  2 08:58:00 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6194437445255168)
+(Mon Nov  2 08:58:00 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5533388280823808)
+(Mon Nov  2 08:58:05 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5533388280823808)
+(Mon Nov  2 08:58:05 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4878151713947648)
+(Mon Nov  2 08:58:09 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4878151713947648)
+(Mon Nov  2 08:58:09 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5091511373529088)
+(Mon Nov  2 08:58:11 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5091511373529088)
+(Mon Nov  2 08:58:11 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5931742403887104)
+(Mon Nov  2 08:58:16 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5931742403887104)
+(Mon Nov  2 08:58:17 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6097297153458176)
+(Mon Nov  2 08:58:18 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6097297153458176)
+(Mon Nov  2 08:58:18 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6488480782483456)
+(Mon Nov  2 08:58:20 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6488480782483456)
+(Mon Nov  2 08:58:20 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5752656318169088)
+(Mon Nov  2 08:58:21 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5752656318169088)
+(Mon Nov  2 08:58:21 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5050019138502656)
+(Mon Nov  2 08:58:22 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5050019138502656)
+(Mon Nov  2 08:58:22 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5086766055424000)
+(Mon Nov  2 08:58:24 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5086766055424000)
+(Mon Nov  2 08:58:24 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5933169060741120)
+(Mon Nov  2 08:58:25 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5933169060741120)
+(Mon Nov  2 08:58:25 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6311996940877824)
+(Mon Nov  2 08:58:27 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6311996940877824)
+(Mon Nov  2 08:58:27 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6292617930473472)
+(Mon Nov  2 08:58:28 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6292617930473472)
+(Mon Nov  2 08:58:29 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5215505961058304)
+(Mon Nov  2 08:58:30 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5215505961058304)
+(Mon Nov  2 08:58:30 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6235132883632128)
+(Mon Nov  2 08:58:30 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6235132883632128)
+(Mon Nov  2 08:58:30 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4838853354061824)
+(Mon Nov  2 08:58:31 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4838853354061824)
+(Mon Nov  2 08:58:31 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6240228079697920)
+(Mon Nov  2 08:58:32 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6240228079697920)
+(Mon Nov  2 08:58:32 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6223097608929280)
+(Mon Nov  2 08:58:35 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6223097608929280)
+(Mon Nov  2 08:58:35 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5531459034152960)
+(Mon Nov  2 08:58:38 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5531459034152960)
+(Mon Nov  2 08:58:39 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6320765585850368)
+(Mon Nov  2 08:58:40 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6320765585850368)
+(Mon Nov  2 08:58:40 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6666901343305728)
+(Mon Nov  2 08:58:42 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6666901343305728)
+(Mon Nov  2 08:58:42 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6124897529757696)
+(Mon Nov  2 08:58:42 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6124897529757696)
+(Mon Nov  2 08:58:42 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4955067011694592)
+(Mon Nov  2 08:58:46 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4955067011694592)
+(Mon Nov  2 08:58:46 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5812560189980672)
+(Mon Nov  2 08:58:47 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5812560189980672)
+(Mon Nov  2 08:58:47 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4894492747628544)
+(Mon Nov  2 08:58:51 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4894492747628544)
+(Mon Nov  2 08:58:51 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4952749859012608)
+(Mon Nov  2 08:58:51 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4952749859012608)
+(Mon Nov  2 08:58:51 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5170967507894272)
+(Mon Nov  2 08:58:54 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5170967507894272)
+(Mon Nov  2 08:58:54 2015) [DiffCheck] - Beginning Sync Phase 2 (Checking for deleted content)
+(Mon Nov  2 08:58:54 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5797244947791872)
+(Mon Nov  2 08:58:54 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5797244947791872)
+(Mon Nov  2 08:58:54 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5797244947791872 Entry ID: 6100607446941696
+(Mon Nov  2 08:58:54 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4802521609666560)
+(Mon Nov  2 08:58:56 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4802521609666560)
+(Mon Nov  2 08:58:57 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5748022890856448
+(Mon Nov  2 08:58:57 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5047698794348544
+(Mon Nov  2 08:58:57 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5779309043253248
+(Mon Nov  2 08:58:57 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5275927652204544
+(Mon Nov  2 08:58:57 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4802521609666560 Entry ID: 5344894995529728
+(Mon Nov  2 08:58:57 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5829785948389376)
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5829785948389376)
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 6050424156192768
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 5932939184570368
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 6659593561309184
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 4802387693928448
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 5486613917466624
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5829785948389376 Entry ID: 5584857754370048
+(Mon Nov  2 08:59:00 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6627141774737408)
+(Mon Nov  2 08:59:02 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6627141774737408)
+(Mon Nov  2 08:59:02 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6627141774737408 Entry ID: 6348126195286016
+(Mon Nov  2 08:59:02 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6627141774737408 Entry ID: 6381036650627072
+(Mon Nov  2 08:59:02 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5283821562626048)
+(Mon Nov  2 08:59:04 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5283821562626048)
+(Mon Nov  2 08:59:04 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5283821562626048 Entry ID: 5256750290436096
+(Mon Nov  2 08:59:04 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5283821562626048 Entry ID: 6130579550240768
+(Mon Nov  2 08:59:04 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5858268865101824)
+(Mon Nov  2 08:59:05 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5858268865101824)
+(Mon Nov  2 08:59:05 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5858268865101824 Entry ID: 6312810836656128
+(Mon Nov  2 08:59:05 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6124897529757696)
+(Mon Nov  2 08:59:06 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6124897529757696)
+(Mon Nov  2 08:59:06 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6543805623566336)
+(Mon Nov  2 08:59:07 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6543805623566336)
+(Mon Nov  2 08:59:07 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 4893204070268928
+(Mon Nov  2 08:59:07 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 5475894767124480
+(Mon Nov  2 08:59:07 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 6712556281135104
+(Mon Nov  2 08:59:07 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6543805623566336 Entry ID: 5108568616075264
+(Mon Nov  2 08:59:07 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6194437445255168)
+(Mon Nov  2 08:59:09 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6194437445255168)
+(Mon Nov  2 08:59:09 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6194437445255168 Entry ID: 4730761861267456
+(Mon Nov  2 08:59:09 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5533388280823808)
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5533388280823808)
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 6063621407899648
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 6169997527351296
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 5906764940836864
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 4677861786124288
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5533388280823808 Entry ID: 5935253002780672
+(Mon Nov  2 08:59:13 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4878151713947648)
+(Mon Nov  2 08:59:17 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4878151713947648)
+(Mon Nov  2 08:59:17 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 6697406897979392
+(Mon Nov  2 08:59:17 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 4796629258469376
+(Mon Nov  2 08:59:17 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 5644899509731328
+(Mon Nov  2 08:59:17 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4878151713947648 Entry ID: 6168530111299584
+(Mon Nov  2 08:59:17 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5091511373529088)
+(Mon Nov  2 08:59:18 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5091511373529088)
+(Mon Nov  2 08:59:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5091511373529088 Entry ID: 5675984867688448
+(Mon Nov  2 08:59:18 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5091511373529088 Entry ID: 5241025476558848
+(Mon Nov  2 08:59:18 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5931742403887104)
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5931742403887104)
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5931742403887104 Entry ID: 5885531961556992
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5931742403887104 Entry ID: 5565662091149312
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5931742403887104 Entry ID: 5603264244613120
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6235132883632128)
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6235132883632128)
+(Mon Nov  2 08:59:24 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6666901343305728)
+(Mon Nov  2 08:59:26 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6666901343305728)
+(Mon Nov  2 08:59:26 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6666901343305728 Entry ID: 5504252622536704
+(Mon Nov  2 08:59:26 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6666901343305728 Entry ID: 5410037766946816
+(Mon Nov  2 08:59:26 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6666901343305728 Entry ID: 5769902297317376
+(Mon Nov  2 08:59:26 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6488480782483456)
+(Mon Nov  2 08:59:28 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6488480782483456)
+(Mon Nov  2 08:59:28 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6488480782483456 Entry ID: 5884459627577344
+(Mon Nov  2 08:59:28 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5752656318169088)
+(Mon Nov  2 08:59:30 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5752656318169088)
+(Mon Nov  2 08:59:30 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5752656318169088 Entry ID: 6030734445510656
+(Mon Nov  2 08:59:30 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5752656318169088 Entry ID: 5713678483324928
+(Mon Nov  2 08:59:30 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5050019138502656)
+(Mon Nov  2 08:59:31 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5050019138502656)
+(Mon Nov  2 08:59:31 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5050019138502656 Entry ID: 5925680482877440
+(Mon Nov  2 08:59:31 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5086766055424000)
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5086766055424000)
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 5122582028877824
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 4936155175452672
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 4648209299931136
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 4819703736958976
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 5569840891428864
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 6111096904220672
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 6749428684292096
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 6486548567162880
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5086766055424000 Entry ID: 5703825281908736
+(Mon Nov  2 08:59:33 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5933169060741120)
+(Mon Nov  2 08:59:34 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5933169060741120)
+(Mon Nov  2 08:59:34 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6166415644819456)
+(Mon Nov  2 08:59:35 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6166415644819456)
+(Mon Nov  2 08:59:35 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6311996940877824)
+(Mon Nov  2 08:59:37 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6311996940877824)
+(Mon Nov  2 08:59:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 5220796133539840
+(Mon Nov  2 08:59:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 4939423237799936
+(Mon Nov  2 08:59:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 5358025136930816
+(Mon Nov  2 08:59:37 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6311996940877824 Entry ID: 5726258251694080
+(Mon Nov  2 08:59:37 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6292617930473472)
+(Mon Nov  2 08:59:38 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6292617930473472)
+(Mon Nov  2 08:59:39 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6292617930473472 Entry ID: 6164833473003520
+(Mon Nov  2 08:59:39 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5215505961058304)
+(Mon Nov  2 08:59:41 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5215505961058304)
+(Mon Nov  2 08:59:41 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5215505961058304 Entry ID: 4997285282971648
+(Mon Nov  2 08:59:41 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5215505961058304 Entry ID: 6230422000369664
+(Mon Nov  2 08:59:41 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6675428649205760)
+(Mon Nov  2 08:59:42 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6675428649205760)
+(Mon Nov  2 08:59:42 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6675428649205760 Entry ID: 6155399109279744
+(Mon Nov  2 08:59:42 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6675428649205760 Entry ID: 6018106386022400
+(Mon Nov  2 08:59:42 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6097297153458176)
+(Mon Nov  2 08:59:43 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6097297153458176)
+(Mon Nov  2 08:59:44 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 4679543632429056
+(Mon Nov  2 08:59:44 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 4929067005247488
+(Mon Nov  2 08:59:44 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 6059247068250112
+(Mon Nov  2 08:59:44 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6097297153458176 Entry ID: 5831268123803648
+(Mon Nov  2 08:59:44 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6240228079697920)
+(Mon Nov  2 08:59:45 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6240228079697920)
+(Mon Nov  2 08:59:46 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6240228079697920 Entry ID: 5521323601952768
+(Mon Nov  2 08:59:46 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6223097608929280)
+(Mon Nov  2 08:59:50 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6223097608929280)
+(Mon Nov  2 08:59:50 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6223097608929280 Entry ID: 6396094778048512
+(Mon Nov  2 08:59:50 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5531459034152960)
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5531459034152960)
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5484692460666880
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5852088325242880
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5121044976369664
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 5284308704165888
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 4736129925513216
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 6183464849244160
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 4558932709343232
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5531459034152960 Entry ID: 6081931384061952
+(Mon Nov  2 08:59:52 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 6320765585850368)
+(Mon Nov  2 08:59:54 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 6320765585850368)
+(Mon Nov  2 08:59:54 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 6320765585850368 Entry ID: 6182888589230080
+(Mon Nov  2 08:59:54 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4838853354061824)
+(Mon Nov  2 08:59:54 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4838853354061824)
+(Mon Nov  2 08:59:54 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4955067011694592)
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4955067011694592)
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5521212915712000
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 6467552287522816
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4613573222465536
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4797311050973184
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4740196240326656
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5897196609339392
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5204422645907456
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4648262718586880
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 5067089675681792
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 4606350731640832
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4955067011694592 Entry ID: 6392797482582016
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5812560189980672)
+(Mon Nov  2 08:59:58 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5812560189980672)
+(Mon Nov  2 08:59:59 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4894492747628544)
+(Mon Nov  2 09:00:02 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4894492747628544)
+(Mon Nov  2 09:00:02 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 4894492747628544 Entry ID: 4853277152509952
+(Mon Nov  2 09:00:02 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 4952749859012608)
+(Mon Nov  2 09:00:03 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 4952749859012608)
+(Mon Nov  2 09:00:03 2015) [DiffCheck] - Fetching contest entries from Khan Academy (for contest with ID 5170967507894272)
+(Mon Nov  2 09:00:05 2015) [DiffCheck] - Fetching contest entries stored in Firebase (for contest with ID 5170967507894272)
+(Mon Nov  2 09:00:05 2015) [DiffCheck] - Found a contest entry that no longer exists. Contest ID: 5170967507894272 Entry ID: 6480498036834304
+(Mon Nov  2 09:00:05 2015) [FATAL] - PUT Request to Firebase failed while trying to push new contests. Status Code: 400
+(Mon Nov  2 09:00:05 2015) [Sync  Bot] - Sync loop finished
+(Mon Nov  2 09:00:05 2015) [Sync  Bot] - Sync loop took approximately 212.91 seconds
+(Mon Nov  2 09:00:05 2015) [Sync  Bot] - Returning to idle state.
