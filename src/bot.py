@@ -12,7 +12,7 @@ class SyncBot:
         self.firebaseToken = firebaseToken
         self.wait = pauseTime
         self.logFile = open(logFileLoc + "log_" + str(time.ctime()).replace(" ", "-") + ".txt", "w")
-        self.firebaseApp = "https://kacjs-dev.firebaseio.com"
+        self.firebaseApp = "https://contest-judging-sys.firebaseio.com"
         print("Firebase token: " + self.firebaseToken)
         self.output("SyncBot initialized")
 
