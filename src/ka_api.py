@@ -43,7 +43,8 @@ class KA_API:
                 "id": entryId,
                 "name": entryName,
                 "thumb": entryThumb,
-                "scores": entryScores
+                "scores": entryScores,
+                "archived": "false"
             }
 
             entries[entryId] = (tmpEntry)

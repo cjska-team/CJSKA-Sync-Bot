@@ -132,6 +132,9 @@ class SyncBot:
         # Phase 4: Remove old data
         # ...
         # NOTE: https://github.com/sparkstudios/CJSKA-Sync-Bot/issues/1
+        for contestWithDelEntries in delKAContestEntries:
+            for delContestEntry in delKAContestEntries[contestWithDelEntries]:
+                delEntryReq = requests.put(self.firebaseApp + "/contests/" + str(contestWithDelEntries) + "/entries/" + str(delContestEntry) + "/archived/.json?auth=" + str(self.firebaseToken), data="true")
 
         self.output("Sync loop finished")
         endTime = time.time()
