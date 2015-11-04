@@ -13,7 +13,7 @@ class SyncBot:
         self.wait = pauseTime
         self.logFile = open(logFileLoc + "log_" + str(time.ctime()).replace(" ", "-") + ".txt", "w")
         self.firebaseApp = "https://kacjs-dev.firebaseio.com"
-
+        print("Firebase token: " + self.firebaseToken)
         self.output("SyncBot initialized")
 
     def output(self, msg, prefix="Sync  Bot"):
@@ -114,7 +114,7 @@ class SyncBot:
         # P3A: Write new contests
         for newContest in newKAContests:
             # For some reason, the following PUT request continues to return HTTP 401 (AKA unauthorized)
-            addContestReq = requests.put(self.firebaseApp + "/contests/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data=str(json.dumps(newKAContests[newContest])))
+            addContestReq = requests.put(self.firebaseApp + "/contests/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data=json.dumps(newKAContests[newContest]), headers={"content-type": "application/json"})
             if addContestReq.status_code == 200:
                 requests.put(self.firebaseApp + "/contestKeys/" + str(newContest) + "/.json?auth=" + str(self.firebaseToken), data="true")
             else:
@@ -123,7 +123,7 @@ class SyncBot:
         # P3B: Write new contest entries
         for contestWithNewEntries in newKAContestEntries:
             for newContestEntry in newKAContestEntries[contestWithNewEntries]:
-                addEntryReq = requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entries/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data=json.dumps(newKAContestEntries[contestWithNewEntries][newContestEntry]))
+                addEntryReq = requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entries/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data=json.dumps(newKAContestEntries[contestWithNewEntries][newContestEntry]), headers={"content-type": "application/json"})
                 if addEntryReq.status_code == 200:
                     requests.put(self.firebaseApp + "/contests/" + str(contestWithNewEntries) + "/entryKeys/" + str(newContestEntry) + "/.json?auth=" + str(self.firebaseToken), data="true")
                 else:

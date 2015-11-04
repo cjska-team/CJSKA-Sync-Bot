@@ -9,6 +9,9 @@ logFileLoc = "./output/"
 def getFirebaseToken(secret, uid):
     return create_token(secret, {
         "uid": uid
+    },
+    {
+        "admin": True
     })
 
 print("Command Line arguments: " + str(sys.argv))

@@ -19,8 +19,8 @@ class KA_API:
             tmpEntry = {}
 
             entryId = str(currEntry["url"]).split("/")[5]
-            entryName = currEntry["translatedTitle"]
-            entryThumb = currEntry["thumb"]
+            entryName = str(currEntry["translatedTitle"])
+            entryThumb = str(currEntry["thumb"])
             entryScores = {
                 "rubrics": {
                     "Clean_Code": {
@@ -46,12 +46,45 @@ class KA_API:
                 "scores": entryScores
             }
 
-            entries[entryId] = tmpEntry
+            entries[entryId] = (tmpEntry)
 
         return entries
 
     def numberOfEntriesInContest(self, contestId):
         return len(self.getContestEntries(contestId))
+
+    def getContest(self, contestId):
+        contest = {}
+        apiReq = requests.get(str(self.urls["scratchpadInfo"]).replace("{SCRATCHPAD}", str(contestId)))
+        responseJSON = apiReq.json()
+
+        scratchpadName = responseJSON["translatedTitle"]
+        scratchpadImg = responseJSON["imagePath"]
+        scratchpadDesc = ""
+
+        try:
+            scratchpadDesc = responseJSON["description"]
+        except KeyError:
+            pass
+
+        contest = {
+            "id": contestId,
+            "name": scratchpadName,
+            "desc": scratchpadDesc,
+            "img": scratchpadImg
+        }
+
+        contest["entries"] = self.getContestEntries(contestId)
+        contest["entryKeys"] = {}
+
+        for i in contest["entries"]:
+            tmpEntry = contest["entries"][i]
+            contest["entryKeys"][tmpEntry["id"]] = "true"
+
+        contest["entries"] = contest["entries"]
+        contest["entryKeys"] = contest["entryKeys"]
+
+        return contest
 
     def getContests(self):
         contests = {}
@@ -69,36 +102,6 @@ class KA_API:
                 # We've found a program that was most likely created by Pamela...
                 if str(currScratchpad["translatedTitle"]).rfind("Contest") != -1 or str(currScratchpad["translatedTitle"]).rfind("contest") != -1:
                     # We probably just found a contest program created by Pamela...
-                    scratchpadId = str(currScratchpad["url"]).split("/")[5]
-                    scratchpadName = currScratchpad["translatedTitle"]
-                    scratchpadImg = currScratchpad["thumb"]
-                    scratchpadRubrics = {}
-                    scratchpadDesc = ""
-
-                    try:
-                        scratchpadDesc = currScratchpad["description"]
-                    except KeyError:
-                        pass
-
-                    tmpContest = {
-                        "id": scratchpadId,
-                        "name": scratchpadName,
-                        "desc": scratchpadDesc,
-                        "img": scratchpadImg,
-                        "rubrics": scratchpadRubrics
-                    }
-
-                    # print(tmpContest)
-
-                    # Get the entries for the current "contest"
-                    tmpContest["entries"] = self.getContestEntries(scratchpadId)
-
-                    tmpContest["entryKeys"] = {}
-
-                    for i in tmpContest["entries"]:
-                        tmpEntry = tmpContest["entries"][i]
-                        tmpContest["entryKeys"][tmpEntry["id"]] = "true"
-
-                    contests[scratchpadId] = tmpContest
+                    contests[str(currScratchpad["url"]).split("/")[5]] = self.getContest(str(currScratchpad["url"]).split("/")[5])
 
         return contests
