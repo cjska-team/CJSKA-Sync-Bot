@@ -22,7 +22,7 @@ class KA_API:
             entryName = str(currEntry["translatedTitle"])
             entryThumb = str(currEntry["thumb"])
             entryScores = {
-                "rubrics": {
+                "rubric": {
                     "Clean_Code": {
                         "rough": 1,
                         "avg": 1
