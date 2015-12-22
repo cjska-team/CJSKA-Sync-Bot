@@ -1,3 +1,5 @@
+### This project was abandoned on December 22nd, 2015.
+
 ## CJSKA Sync Bot
 
 #### Dependencies
